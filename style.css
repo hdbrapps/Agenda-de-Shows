@@ -157,9 +157,9 @@
   .floating-icons img {
     width: 50px;
     height: 50px;
-    margin: 10px;
+    
     border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    
     animation: float 3s ease-in-out infinite;
   }
   
