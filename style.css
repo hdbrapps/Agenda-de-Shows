@@ -271,3 +271,12 @@ footer {
     text-decoration: none;
   }
   
+@media (max-width: 768px) {
+  header {
+    font-size: 1.5em;
+  }
+  .event {
+    width: 90%;
+  }
+}
+
